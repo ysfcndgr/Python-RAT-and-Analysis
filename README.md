@@ -5,8 +5,9 @@ A trojan written in the python language and trojan analysis
 
 Multi reverse
 
-CMD Commands
+CMD commands
 
+Change directory
 
 # Network Analysis
 
