@@ -1,6 +1,11 @@
 # Python-RAT-and-Analysis
 A trojan written in the python language and trojan analysis
 
+#Skills
+Multi reverse
+CMD Commands
+
+
 # Network Analysis
 
 We do network analysis with wireshark.
