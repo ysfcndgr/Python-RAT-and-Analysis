@@ -9,7 +9,8 @@ CMD commands
 
 Change directory
 
-# Network Analysis
+# Dynamic Analysis
+Network
 
 We do network analysis with wireshark.
 ![1](https://user-images.githubusercontent.com/32979760/109866212-1083f280-7c76-11eb-91d0-2381e1b4737c.jpg)
